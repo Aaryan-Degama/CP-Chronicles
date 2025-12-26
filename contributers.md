@@ -11,6 +11,6 @@
 | Vishva Modh             | ViMo018                | IIIT Allahabad                  |
 | Varad Singhal           | VaradSinghal           | SRMIST                          |
 | Hardik Singh Rana       | hardik-rana02          | IIIT Allahabad                  |
-
+| OMDEEP                  | omicoded19             | IIITA                           | 
 <!-- ADD ABOVE THIS -->
-<!-- example | Korvac | Betty | Reyansh College | IIT2024067 | -->
+<!-- example | Korvac | Betty | Reyansh College | -->
